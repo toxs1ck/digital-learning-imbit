@@ -9,7 +9,7 @@ The repository consists of three projects:
 * brillianCRM
 * brillianICM
 
-brillianCRM and brillianICM are Serious Games, that are built with Java, Servlets and Java Server Pages and run in a Tomcat container. In order to develop and test these projects, you need the following: Eclipse (or other Dev software), JDK9, Tomcat (8.5 or 9), MySQL database (e.g. 5.7, attention: not MariaDB!!!) and Maven.
+brillianCRM and brillianICM are Serious Games, that are built with Java, Servlets and Java Server Pages and run in a Tomcat container. In order to develop and test these projects, you need the following: Eclipse (or other Dev software), JDK9, Tomcat (8.5 or 9), MySQL database (e.g. 5.7, attention: not MariaDB!!!) and Maven. Dies ist ein Test.
 
 brillianIDEAS is built in HMTL, JavaScript and jQuery and runs on an Apache HTTP Server. In order to develop and test this project, you need the following: Eclipse (or other Dev software), Apache HTTP Server and PHP. The latter two are included in XAMPP.
 Unfortunately, XAMPP includes Tomcat7 and MariaDB, 
